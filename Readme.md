@@ -58,9 +58,9 @@
     1) You will received a direct message via discord with a link to the github repository
     for this exam.
     
-    1) Login to Github and **clone** the repository for this exam.
+    1) Login to Github and **fork** the repository for this exam.
     
-    1) After you clone the directory you have several possibilities for answering the
+    1) After you fork the repository you have several possibilities for answering the
     questions. You can download the repository and use your local environments, or you 
     can open a Github codepsace, or clone the repository into a Google colaboratory. 
     
@@ -77,4 +77,8 @@
        c) Use *git push* to push your changes to the repository. You can push
        intermediate versions as often as you like, but I will only mark the last
        one that you submitted.
-    
+
+        d) Create a pull request from your own repository to the original repository. Once you successfully create a pull request,
+        you will have successfully submitted your exam. You can change your answers by creating a new pull request.
+        
+        
